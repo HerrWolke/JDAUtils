@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Mr/.m2/repository/net/dv8tion/JDA/4.2.0_209/JDA-4.2.0_209.pom;C:/Users/Mr/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/Mr/.m2/repository/org/jetbrains/annotations/16.0.1/annotations-16.0.1.jar;C:/Users/Mr/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar;C:/Users/Mr/.m2/repository/com/neovisionaries/nv-websocket-client/2.10/nv-websocket-client-2.10.jar;C:/Users/Mr/.m2/repository/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0.jar;C:/Users/Mr/.m2/repository/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar;C:/Users/Mr/.m2/repository/club/minnced/opus-java/1.0.4/opus-java-1.0.4.pom;C:/Users/Mr/.m2/repository/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4.jar;C:/Users/Mr/.m2/repository/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4.jar;C:/Users/Mr/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/Desktop/Programmieren/JavaShit/JDAUtils/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Desktop/Programmieren/JavaShit/JDAUtils/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JDAUtils 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Desktop/Programmieren/JavaShit/JDAUtils/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JDAUtils 1.0 API'

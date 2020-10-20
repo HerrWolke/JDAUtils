@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JDAUtils" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3421d04-63e1-49c0-80e6-7eb31356483d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JDAUtils" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JDAUtils" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JDAUtils" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JDAUtils" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVsXhV22bsriIcRqKkKjTgEQZs" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/DOWNLOADS/JDA-4.2.0_208.jar!/" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15629742" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\Programmieren\JavaShit\JDAUtils" />
+      <recent name="D:\Desktop\Programmieren\JavaShit\JDAUtils\src" />
+      <recent name="D:\Desktop\Programmieren\JavaShit\JDAUtils\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\Programmieren\JavaShit\JDAUtils\src\de\mrcloud\jdautils" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn java_home" />
+      <command value="mvn dependecy:sources" />
+      <command value="mvn dependency:sources" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3421d04-63e1-49c0-80e6-7eb31356483d" name="Default Changelist" comment="" />
+      <created>1602004134812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602004134812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602275517334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602275517334" />
+    <state x="397" y="298" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1602275817686">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="397" y="298" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602275817686" />
+    <state x="445" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1602275896872">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="445" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602275896872" />
+    <state x="490" y="278" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602275774601">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="490" y="278" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602275774601" />
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1602361715023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602361715023" />
+    <state x="714" y="262" key="FileChooserDialogImpl" timestamp="1602794034470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="232" key="FileChooserDialogImpl/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602276079885" />
+    <state x="714" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602794034470" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1602872833935">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602872833935" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602871588191" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1602872833935">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602872833935" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602871588190" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1602872833935">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602872833935" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602871588190" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1602872833935">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602872833935" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602871588190" />
+    <state x="170" y="115" key="Maven.ArtifactSearchDialog" timestamp="1602275890874">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="170" y="115" key="Maven.ArtifactSearchDialog/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602275890874" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1602864647773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="240" y="69" key="SettingsEditor/0.0.1280.920/1280.0.1920.1040@0.0.1280.920" timestamp="1602276140142" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602864647773" />
+    <state x="675" y="398" key="com.intellij.ide.util.TipDialog" timestamp="1603219716004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="398" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603219716004" />
+    <state x="616" y="240" width="672" height="159" key="run.anything.popup" timestamp="1602870687181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="159" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602870687181" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602864734842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602864734842" />
+  </component>
+</project>
